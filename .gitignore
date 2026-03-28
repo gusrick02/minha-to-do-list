@@ -1,0 +1,16 @@
+# Banco de dados
+*.db
+*.sqlite
+database/
+db.sqlite3
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
+
+# Pastas de ambiente virtual
+venv/
+__pycache__/
+
+# Configurações locais
+.env
